@@ -1,0 +1,2 @@
+origin	git@github.com:AleMEDAC/PracticaFinal2.git (fetch)
+origin	git@github.com:AleMEDAC/PracticaFinal2.git (push)
