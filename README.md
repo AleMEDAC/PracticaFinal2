@@ -11,3 +11,9 @@ DEPORTES:
 	Baloncesto
 	Pádel
 	Tenis
+
+FAVORITAS:
+	
+	slipknot
+	three days grace
+	AC/DC
